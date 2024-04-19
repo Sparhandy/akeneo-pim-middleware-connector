@@ -5,10 +5,14 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker-eco/akeneo-pim-middleware-connector/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker-eco/akeneo-pim-middleware-connector/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/spryker-eco/akeneo-pim-middleware-connector/badges/build.png?b=master)](https://scrutinizer-ci.com/g/spryker-eco/akeneo-pim-middleware-connector/build-status/master)
 
+## Info
+
+This is a fork of the MIT licensed version 1.1.1 of spryker-eco/akeneo-pim-middleware-connector
+
 ## Installation
 
 ```
-composer require spryker-eco/akeneo-pim-middleware-connector
+composer require sparhandy/akeneo-pim-middleware-connector
 ```
 
 ## Documentation
